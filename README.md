@@ -2,11 +2,11 @@
 
 ## 關於我
 目前正在學習遊戲開發以及設計，努力提升作品品質💪
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheng0730&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheng6612&theme=radical)
 
 ## 主要語言
 C# Unity
-![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude={exclude}](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude=Cython,HTML))
+![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng6612&theme=radical&exclude={exclude}](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude=Cython,HTML))
 
 ## 參加競賽
 電資創意競賽雲端雲端資訊應用組 季軍

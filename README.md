@@ -5,9 +5,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheng6612&theme=radical)
 
 ## 主要語言
-C# Unity
-![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng6612&theme=radical&exclude={exclude}](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude=Cython,HTML))
 
+![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng6612&theme=radical&exclude={exclude}](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheng0730&theme=radical&exclude=TypeScript))
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 ## 參加競賽
 電資創意競賽雲端雲端資訊應用組 季軍
   
